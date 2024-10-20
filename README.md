@@ -16,7 +16,7 @@ Cloud & Hosting: Deployed on Google Colab, Streamlit Cloud, or local Jupyter Not
 Installation Instructions:
 
 Clone the repository:
-git clone https://github.com/your-username/profit-analysis-assessment.git
+git clone https://github.com/Riteshab/profit-analysis-assessment.git
 
 Navigate to the project folder:
 cd profit-analysis-assessment
